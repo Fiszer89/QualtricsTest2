@@ -1,0 +1,196 @@
+/* Button styles */
+.Button {
+	background: #0088E7 !important;
+	border-radius: 360px !important;
+	width: 99%;
+	height: 48px;
+}
+
+input[type="button"].Button:hover {
+	background: #0263BC !important;	
+}
+
+input[type="button"].Button:focus {
+ 	background: #6a5acd !important;
+	border: 2px solid #005087 !important;
+}
+
+input[type="button"].Button::disabled {
+ 	background: #0088E7 !important;
+	opacity: 0.3 !important;
+}
+
+/* Radio button styles */
+.Skin label.SingleAnswer > span::before {
+	background: #FFFFFF !important;
+	border: 1px solid #A5ACBB !important;
+	box-sizing: border-box !important;
+}
+
+.Skin label.SingleAnswer.q-checked > span::before {
+	background: #0088E7 !important;
+	border: 1px solid #0088E7 !important;
+}
+
+.Skin label.SingleAnswer > span:hover::before {
+	border: 1px solid #0088E7 !important;
+}
+
+.Skin label.SingleAnswer > span:focus::before {
+	border: 2px solid #005087 !important;
+}
+
+.SingleAnswer  {
+	background-color: #ffffff !important;	
+}
+
+.ChoiceRow {
+	background-color: #ffffff !important;	
+}
+
+.q-radio {
+	background: #FFFFFF !important;
+	border: 1px solid #A5ACBB !important;
+	box-sizing: border-box !important;
+}
+
+.q-radio.q-checked {
+	background: #0088E7 !important;
+	border: 1px solid #0088E7 !important;
+}
+
+.q-radio:hover {
+	border: 1px solid #0088E7 !important;
+}
+
+.q-radio:focus {
+	border: 2px solid #005087 !important;
+}
+
+/* Text input styles */
+.InputText {
+	background: #FFFFFF !important;
+	border: 1px solid #A5ACBB !important;
+	box-sizing: border-box !important;
+	border-radius: 6px !important;	
+}
+
+.InputText:focus {
+	border: 1px solid #0263BC !important;
+}
+
+/* Check button styles */
+.MultipleAnswer {
+	background-color: #ffffff !important;	
+}
+
+.Skin label.MultipleAnswer > span::before {
+	background: #FFFFFF !important;
+	border: 1px solid #A5ACBB !important;
+	box-sizing: border-box !important;
+}
+
+/* Button styles */
+.Button {
+	background: #0088E7 !important;
+	border-radius: 360px !important;
+	width: 99%;
+	height: 48px;
+}
+
+input[type="button"].Button:hover {
+	background: #0263BC !important;	
+}
+
+input[type="button"].Button:focus {
+ 	background: #6a5acd !important;
+	border: 2px solid #005087 !important;
+}
+
+input[type="button"].Button::disabled {
+ 	background: #0088E7 !important;
+	opacity: 0.3 !important;
+}
+
+/* Radio button styles */
+.Skin label.SingleAnswer > span::before {
+	background: #FFFFFF !important;
+	border: 1px solid #A5ACBB !important;
+	box-sizing: border-box !important;
+}
+
+.Skin label.SingleAnswer.q-checked > span::before {
+	background: #0088E7 !important;
+	border: 1px solid #0088E7 !important;
+}
+
+.Skin label.SingleAnswer > span:hover::before {
+	border: 1px solid #0088E7 !important;
+}
+
+.Skin label.SingleAnswer > span:focus::before {
+	border: 2px solid #005087 !important;
+}
+
+.SingleAnswer  {
+	background-color: #ffffff !important;	
+}
+
+.ChoiceRow {
+	background-color: #ffffff !important;	
+}
+
+.q-radio {
+	background: #FFFFFF !important;
+	border: 1px solid #A5ACBB !important;
+	box-sizing: border-box !important;
+}
+
+.q-radio.q-checked {
+	background: #0088E7 !important;
+	border: 1px solid #0088E7 !important;
+}
+
+.q-radio:hover {
+	border: 1px solid #0088E7 !important;
+}
+
+.q-radio:focus {
+	border: 2px solid #005087 !important;
+}
+
+/* Text input styles */
+.InputText {
+	background: #FFFFFF !important;
+	border: 1px solid #A5ACBB !important;
+	box-sizing: border-box !important;
+	border-radius: 6px !important;	
+}
+
+.InputText:focus {
+	border: 1px solid #0263BC !important;
+}
+
+/* Check button styles */
+.MultipleAnswer {
+	background-color: #ffffff !important;	
+}
+
+.Skin label.MultipleAnswer > span::before {
+	background: #FFFFFF !important;
+	border: 1px solid #A5ACBB !important;
+	box-sizing: border-box !important;
+}
+
+.Skin label.MultipleAnswer.q-checked > span::before {
+	background: #0088E7 url(/jfe/themes/base-templates/qualtrics/base/version-1641491804344-212c17/files/check.svg) no-repeat center center !important;
+	border: 1px solid #0088E7 !important;
+}
+
+.Skin label.MultipleAnswer > span:hover::before {
+	border: 1px solid #0088E7 !important;
+}
+
+.Skin label.MultipleAnswer > span:focus::before {
+	border: 2px solid #005087 !important;
+}
