@@ -183,7 +183,7 @@ input[type="button"].Button::disabled {
 }
 
 .Skin label.MultipleAnswer.q-checked > span::before {
-	background: #0088E7 url(/jfe/themes/base-templates/qualtrics/base/version-1641491804344-212c17/files/check.svg) no-repeat center center !important;
+	background: #0088E7 url(https://fifa.eu.qualtrics.com/jfe/themes/base-templates/qualtrics/base/version-1641491804344-212c17/files/check.svg) no-repeat center center !important;
 	border: 1px solid #0088E7 !important;
 }
 
